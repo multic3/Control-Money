@@ -1,0 +1,14 @@
+id,Category,Product,Cost,Date
+0,Travel,Tickets to Paris,900.0,2022-08-15
+1,Home,Table,700.0,2022-11-19
+2,Home,Dishwasher machine,953.0,2021-03-03
+3,Home,Flowers,25.0,2022-11-02
+4,Car,Tires,860.0,2022-09-15
+5,Car,Navigator,399.0,2021-12-25
+6,Car,Forfeit,300.0,2020-03-20
+7,Food,Lemon,3.0,2022-11-03
+8,Travel,Tickets to Anapa,500.0,2021-08-12
+9,Food,Tomato,4.0,2022-11-07
+10,Food,Bread,2.0,2022-11-07
+11,Food,Chips,1.5,2022-02-03
+12,Sport,Bear,121.0,2022-11-29
